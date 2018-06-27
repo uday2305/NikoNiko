@@ -15,7 +15,6 @@ import WedSplash from './src/components/Wedding/WedSplash';
 
 export default class NikoNiko extends Component {
   render() {
-    
     return (
       <WedSplash />
     );
