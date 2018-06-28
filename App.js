@@ -11,7 +11,7 @@ import {
   Text,
   View
 } from 'react-native';
-import WedSplash from './src/components/Wedding/WedSplash';
+import WedSplash from './src/components/nikoniko/MainView';
 
 export default class NikoNiko extends Component {
   render() {
